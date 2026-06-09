@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Oi%2C+eu+sou+a+Julyane+%F0%9F%91%BE;Ciência+da+Computação+%7C+CESUPA;Robótica+%2B+Código+%2B+Café" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A855F7&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=julyane%40cesupa%3A~%24+whoami;%3E+estudante+de+CC+%7C+robótica+%7C+código;%3E+sempre+em+construção..." alt="Terminal typing" />
 
 <br/>
 
@@ -15,10 +15,7 @@ Ainda descobrindo meu caminho na área — mas já com bastante código no camin
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,python,arduino,opencv&theme=dark" />
 
 </div>
 
