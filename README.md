@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A855F7&background=0D111700&center=true&vCenter=true&width=600&height=60&lines=julyane%40cesupa%3A~%24+whoami;%3E+estudante+de+CC+%7C+robótica+%7C+código;%3E+sempre+em+construção..." alt="Terminal typing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=header&text=Julyane%20Ribeiro&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=julyane%40cesupa%3A~%24+whoami;%3E+Ciência+da+Computação+%7C+CESUPA;%3E+Robótica+%2B+Código+%2B+Café;%3E+sempre+em+construção..." alt="Terminal typing" />
 
 <br/>
 
@@ -49,3 +51,5 @@ Ainda estou descobrindo qual área me faz brilhar mais. Por enquanto, estou aper
 [![GitHub](https://img.shields.io/badge/@Rjulyane-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rjulyane)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=80&section=footer" />
