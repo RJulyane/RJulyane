@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=header&text=Julyane%20Ribeiro&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=header&text=Julyane%20Ribeiro&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=julyane%40cesupa%3A~%24+whoami;%3E+Ciência+da+Computação+%7C+CESUPA;%3E+Robótica+%2B+Código+%2B+Café;%3E+sempre+em+construção..." alt="Terminal typing" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&height=50&lines=%40Rjulyane;Ciência+da+Computação+%7C+CESUPA" alt="Terminal typing" />
 
 <br/>
 
-Estudante de Ciência da Computação no **CESUPA**, apaixonada por programação e com um histórico em competições de robótica.
-Ainda descobrindo meu caminho na área — mas já com bastante código no caminho.
+Bem vindo ao meu perfil.
 
 </div>
 
@@ -52,4 +52,6 @@ Ainda estou descobrindo qual área me faz brilhar mais. Por enquanto, estou aper
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=80&section=footer" />
+[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=Rjulyane&theme=react-dark&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true)](https://github.com/Rjulyane)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=80&section=footer" />
