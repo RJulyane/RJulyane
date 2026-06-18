@@ -75,7 +75,6 @@ Ainda estou descobrindo qual área me faz brilhar mais. Por enquanto, estou aper
 ### 📌 Projetos em destaque
 
 
-
 | Projeto | Descrição |
 
 |---|---|
