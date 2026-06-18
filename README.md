@@ -3,14 +3,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=header&text=Julyane%20Ribeiro&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&height=50&lines=%40Rjulyane;Ciência+da+Computação+%7C+CESUPA" alt="Terminal typing" />
-
-<br/>
-
-Bem vindo ao meu perfil.
-
+<div align="center"> 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+  
+Bem vindo ao meu perfil. </div>
+<img src="[https://media.tenor.com/BrheY6A8gSAAAAAC/dinosaur-pixel.gif](https://media.tenor.com/KunfnBrmJH4AAAAi/dinosaur-trex.gif)" width="30"> 
+<div align="right">
+  <img src="https://user-images.githubusercontent.com/34415842/261314643-7f6ef858-a8bf-49f2-b7e6-7afc8c3e660e.gif" width="70px" />
 </div>
-
 ---
 
 ### 🤖 Tecnologias que já usei
