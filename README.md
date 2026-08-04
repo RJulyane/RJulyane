@@ -29,23 +29,12 @@ Bem vindo ao meu perfil.
 
 
 ### 🤖 Tecnologias que já usei
-
-
-
 <div align="center">
-
-
-
-<img src="https://skillicons.dev/icons?i=c,python,arduino,opencv&theme=dark" />
-
-
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,opencv&theme=dark" />
 </div>
 
 
-
 ---
-
 
 
 ### 🏆 Competições de Robótica
