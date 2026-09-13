@@ -68,9 +68,9 @@ Ainda estou descobrindo qual área me faz brilhar mais. Por enquanto, estou aper
 
 |---|---|
 
-| [JOGitto]([https://github.com/Rjulyane](https://github.com/RJulyane/JOGuitto)) | Mini hub de jogos em C — quiz, cobra na caixa e batalha de criaturas |
+| [JOGitto](https://github.com/RJulyane/JOGuitto) | Mini hub de jogos em C — quiz, cobra na caixa e batalha de criaturas |
 
-| [o_narrador]([https://github.com/Rjulyane](https://github.com/RJulyane/DUNGEON-CRAWLER)) | Dungeon crawler em C com um narrador vilão e sarcástico |
+| [o_narrador](https://github.com/RJulyane/DUNGEON-CRAWLER) | Dungeon crawler em C com um narrador vilão e sarcástico |
 
 
 ---
