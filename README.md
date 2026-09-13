@@ -68,34 +68,22 @@ Ainda estou descobrindo qual área me faz brilhar mais. Por enquanto, estou aper
 
 |---|---|
 
-| [JOGitto](https://github.com/Rjulyane) | Mini hub de jogos em C — quiz, cobra na caixa e batalha de criaturas |
+| [JOGitto]([https://github.com/Rjulyane](https://github.com/RJulyane/JOGuitto)) | Mini hub de jogos em C — quiz, cobra na caixa e batalha de criaturas |
 
-| [o_narrador](https://github.com/Rjulyane) | Dungeon crawler em C com um narrador vilão e sarcástico |
-
+| [o_narrador]([https://github.com/Rjulyane](https://github.com/RJulyane/DUNGEON-CRAWLER)) | Dungeon crawler em C com um narrador vilão e sarcástico |
 
 
 ---
 
 
-
 <div align="center">
-
 
 
 *"Ainda em desenvolvimento — como todo bom programa."*
 
 
-
 [![GitHub](https://img.shields.io/badge/@Rjulyane-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rjulyane)
 
-
-
-</div>
-
-
-
-[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=Rjulyane&theme=react-dark&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true)](https://github.com/Rjulyane)
-<div align="center">
 <pre>
 <font color="#22C55E">
                 __
