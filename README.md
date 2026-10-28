@@ -2,7 +2,7 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=header&text=Julyane%20Ribeiro&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=120&section=header&text=Julyane%20Ribeiro&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=twinkling" >
 
 
 
