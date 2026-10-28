@@ -8,7 +8,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&height=50&lines=%40Rjulyane;Ciência+da+Computação+%7C+CESUPA" alt="Terminal typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=600&height=50&lines=%40Rjulyane;Ciência+da+Computação+%7C+CESUPA" alt="Terminal Typing" />
 
 
 
@@ -17,7 +17,6 @@
 ---
 
 Bem vindo ao meu perfil.
-
 
 
 </div>
